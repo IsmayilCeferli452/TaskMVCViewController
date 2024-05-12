@@ -25,3 +25,4 @@ C:\Users\ismay\OneDrive\Masaüstü\Task\Task\AspTask\AspTask\obj\Debug\net6.0\re
 C:\Users\ismay\OneDrive\Masaüstü\Task\Task\AspTask\AspTask\obj\Debug\net6.0\AspTask.pdb
 C:\Users\ismay\OneDrive\Masaüstü\Task\Task\AspTask\AspTask\obj\Debug\net6.0\AspTask.genruntimeconfig.cache
 C:\Users\ismay\OneDrive\Masaüstü\Task\Task\AspTask\AspTask\obj\Debug\net6.0\ref\AspTask.dll
+C:\Users\ismay\OneDrive\Masaüstü\Task\Task\AspTask\AspTask\obj\Debug\net6.0\AspTask.sourcelink.json
