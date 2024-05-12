@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\Task\\Task\\AspTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A03F95-1D82-44FB-98E3-75AA77CB3D2F}|AspTask\\AspTask.csproj|c:\\users\\ismay\\onedrive\\masa\u00FCst\u00FC\\task\\task\\asptask\\asptask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A03F95-1D82-44FB-98E3-75AA77CB3D2F}|AspTask\\AspTask.csproj|solutionrelative:asptask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\Task\\Task\\AspTask\\AspTask\\Program.cs",
+              "RelativeDocumentMoniker": "AspTask\\Program.cs",
+              "ToolTip": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\Task\\Task\\AspTask\\AspTask\\Program.cs",
+              "RelativeToolTip": "AspTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:51:22.096Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "erWf72pxU2FMw5xUIJVyNtM6DvuuXsJr3TjVVLl6xWV4QcUhxh69z4j+MVfmiccDUuKxMjn2iTj1UCGQsM4wnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ismay\\OneDrive\\Masaüstü\\Task\\Task\\AspTask\\AspTask\\AspTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ismay\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\ismay\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\ismay\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\ismay\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

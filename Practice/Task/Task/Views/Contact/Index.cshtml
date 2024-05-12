@@ -1,0 +1,43 @@
+﻿@using Task.ViewModels;
+
+
+@{
+    // string[] students = { "Emirastan", "Fexriyye", "Elmir", "Nurlan" };
+
+    int count = 0;
+}
+
+
+
+
+@model HomeVM
+
+
+<h1>@Model.Text</h1>
+
+<ul>
+    @foreach (var item in Model.Students)
+    {
+        count++;
+        <li>@item</li>
+    }
+
+    <li>@count</li>
+
+    @for (int i = 0; i < Model.Students.Count; i++)
+    {
+        count++;
+        <li>@Model.Students[i]</li>
+    }
+
+    <li>@count</li>
+</ul>
+
+
+@foreach (var item in Model.Users)
+{
+    <h3>@item.Id - @item.Age</h3>
+}
+
+
+

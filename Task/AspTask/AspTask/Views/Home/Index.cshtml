@@ -1,0 +1,72 @@
+﻿@using AspTask.ViewModels;
+
+@model HomeVM
+
+<table>
+    @foreach (var student in Model.Students)
+    {
+        <tr>
+            <th>Name</th>
+            <th>Surname</th>
+            <th>Email</th>
+            <th>Age</th>
+            <th>Number</th>
+        </tr>
+        <tr>
+            <td>@student.Name</td>
+            <td>@student.Surname</td>
+            <td>@student.Email</td>
+            <td>@student.Age</td>
+            <td>@student.Number</td>
+        </tr>
+    }
+</table>
+
+<h1>  </h1>
+
+<table>
+    @foreach (var student in Model.StudentsDesc)
+    {
+        <tr>
+            <th>Name</th>
+            <th>Surname</th>
+            <th>Email</th>
+            <th>Age</th>
+            <th>Number</th>
+        </tr>
+        <tr>
+            <td>@student.Name</td>
+            <td>@student.Surname</td>
+            <td>@student.Email</td>
+            <td>@student.Age</td>
+            <td>@student.Number</td>
+        </tr>
+    }
+</table>
+
+
+<h1>  </h1>
+
+<h1>Count of products:</h1>
+<h1>@Model.ProductsCount</h1>
+
+
+<h1>  </h1>
+
+
+
+<table>
+    @foreach (var product in Model.Products)
+    {
+        <tr>
+            <th>Product name</th>
+            <th>Product price</th>
+            <th>Product color</th>
+        </tr>
+        <tr>
+            <td>@product.Name</td>
+            <td>@product.Price</td>
+            <td>@product.Color</td>
+        </tr>
+    }
+</table>
